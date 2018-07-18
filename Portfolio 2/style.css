@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body, html {margin:0;padding:0;height: 100%;text-align: center;}
+
+section {height: 100%;}
+
+a {text-decoration: none;}
+
+li{list-style-type: none;}
+
+h1, h2, h3, a {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";font-weight: 500;color: #000000;text-transform: uppercase;}
+
+h2 {color: white;}
+
+h3 {padding-top: 8%;margin-bottom: 5px;font-size: 40px;}
+
+h4, p {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+
+hr {width: 30px;height: 3px;background: #4949494;border: 0;margin: 0 auto 40px auto;}
+
+img, li, #Logo{transition:  all 300ms; -webkit-transition: all 300ms;-moz-transition: all 300ms;-o-transition: all 300ms;}
+
+header {width: 100%;height: 65px;position: fixed;top: 0;left: 0;background: #FFFFFF;box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);z-index: 1;}
+
+li, #Logo {width; 4px;float: left;margin: 10px 0 0 50px;}
+
+#Logo:hover {transform: scale(1.2);-webkit-transform: scale(1.2);-moz-transform: scale(1.2);-o-transform: scale(1.2);}
+
+header nav {float: right;margin: 0px 50px 0 0;}
+
+header nav ul li {float: left;margin-right: 16px;}
+
+header nav ul li a {font-size: 16px;}
+
+header nav ul li:hover{padding-top: 5px;}
+
+#Home{background-image: url(abenteuer-beratung-denim-862517.png);background-position: center center;background-size: cover;background-attachment: fixed;}
+
+#Home h1{margin: 240px auto 0 auto;font-size: 110px;color: white;}
+
+#Home h2{margin: 0 auto 0 auto;font-size: 50px}
+
+#Home img{height: 32px;width: 32px;margin-top: 150px;opacity: 0.5;	}
+
+#Home img:hover{height: 32px;width: 32px;margin-top: 150px;opacity: 0.8;	}
+
+#about img {width: 240px;}
+
+#about img:hover {transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);}
+
+#about h4 {font-size: 25px;}
+
+#about p {width: 700px;margin: 0 auto 0 auto;}
+
+#work{background-image:url(pexels-photo-273222.png);background-size: cover;background-color:#B0B0B0;}
+
+#work p{color: #FFFFFF;width: 700px;margin: 0 auto 0 auto;}
+
+#work h3{color: #FFFFFF;}
+
+#work div {
+  text-align: center;}
+
+#work ul {list-style-type: none;width: 500px;  list-style-type: none;
+   width: 500px;
+   margin-left: calc(50% - 440px)}
+
+#work ul li {padding: 10px;overflow: hidden;border-color: #000000;border-radius: 0.5; }
+
+#work ul li:hover {cursor: pointer;transform: scale(1.1);-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);}
+
+#work li img {float: left;margin: 0 15px 0 0;height: 37%;width: 37%;}
+
+Projects ul{width: 900px;display: block;margin: 0 auto 0 auto;}
+
+.Bilder{width: 33.3%}
+
+#contact li{float: none; margin: 30px; margin-left: -15px; font-size: 22px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; }
+
+#contact ol{margin-top: 100px}
+
+footer{	width: 100%;height: 160px;top: 0;left: 0;background-color: #000000;}
+
+footer p{font-size: 15px;color: #FFFFFF;padding-top: 4%;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+
+footer h3{padding-top: 1%;font-size: 20px;color: #FFFFFF;}
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
