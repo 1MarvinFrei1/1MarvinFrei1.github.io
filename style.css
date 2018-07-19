@@ -55,7 +55,7 @@ header nav ul li:hover{padding-top: 5px;}
 
 #about p {width: 700px;margin: 0 auto 0 auto;}
 
-#work{background-image:url(unspecified.png);background-size: cover;background-color:#B0B0B0;}
+#work{background-image: url(unspecified.png);background-size: cover;background-color:#B0B0B0;}
 
 #work p{color: #FFFFFF;width: 700px;margin: 0 auto 0 auto;}
 
