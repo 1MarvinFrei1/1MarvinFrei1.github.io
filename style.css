@@ -35,7 +35,7 @@ header nav ul li a {font-size: 16px;}
 
 header nav ul li:hover{padding-top: 5px;}
 
-#Home{background-image: url(DSC_3274.png);background-position: center center;background-size: cover;background-attachment: fixed;}
+#Home{background-image: url(../../Documents/GitHub/MarvinFrei.github.io/DSC_3274.png);background-position: center center;background-size: cover;background-attachment: fixed;}
 
 #Home h1{margin: 240px auto 0 auto;font-size: 110px;color: white;}
 
@@ -53,7 +53,7 @@ header nav ul li:hover{padding-top: 5px;}
 
 #about p {width: 700px;margin: 0 auto 0 auto;}
 
-#work{background-image:url(pexels-photo-273222.png);background-size: cover;background-color:#B0B0B0;}
+#work{background-image:url(unspecified.png);background-size: cover;background-color:#B0B0B0;}
 
 #work p{color: #FFFFFF;width: 700px;margin: 0 auto 0 auto;}
 
@@ -76,15 +76,17 @@ Projects ul{width: 900px;display: block;margin: 0 auto 0 auto;}
 
 .Bilder{width: 33.3%}
 
+#contact{background-image: url(unspecified-1.png);background-size: cover;}
+
 #contact li{float: none; margin: 30px; margin-left: -15px; font-size: 22px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; }
 
 #contact ol{margin-top: 100px}
 
-footer{	width: 100%;height: 160px;top: 0;left: 0;background-color: #000000;}
+footer{	width: 100%;height: 160px;top: 0;left: 0;background-color: #FFFFFF; background-size: cover}
 
-footer p{font-size: 15px;color: #FFFFFF;padding-top: 4%;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+footer p{font-size: 15px;color: #000000;padding-top: 4%;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
 
-footer h3{padding-top: 1%;font-size: 20px;color: #FFFFFF;}
+footer h3{padding-top: 1%;font-size: 20px;color: #000000;}
 
 
 
